@@ -1,0 +1,15 @@
+<site-list version="205">
+ <created-by>
+ <tool>EnterpriseSitelistManager</tool>
+ <version>10.0.14357.1004</version>
+ <date-created>09/20/2020 19:16:42</date-created>
+ </created-by>
+ <site url="pps.wisconsin.gov">
+ <compat-mode>IE8Enterprise</compat-mode>
+ <open-in>IE11</open-in>
+</site> 
+<site url="wamsprd.wisconsin.gov">
+ <compat-mode>IE8Enterprise</compat-mode>
+ <open-in>None</open-in>
+</site> 
+</site-list>
